@@ -86,3 +86,10 @@ captures/
 # Keystore files  
 *.jks
 Comics/.DS_Store
+.DS_Store
+AutoTest/.DS_Store
+Comics/.DS_Store
+MapPath/.DS_Store
+OTAServer/ota/.DS_Store
+Socket/.DS_Store
+Wave/.DS_Store
